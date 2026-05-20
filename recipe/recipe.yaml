@@ -1,5 +1,4 @@
 # MAQAO conda recipe using rattler-build format (CEP 13)
-# MAQAO (Modular Assembly Quality Analyzer and Optimizer) is a performance analysis tool
 
 context:
   name: maqao
